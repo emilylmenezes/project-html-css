@@ -1,0 +1,37 @@
+body{
+    background-color: cadetblue;
+}
+
+#f, #foto {
+    width: 300px;
+    height: 350px;
+    margin-left: 35px;
+}
+
+
+#rosa {
+    width: 290px;
+    height: 350px;
+    margin-left: 35px;
+    margin-top: 15px;
+}
+
+#rosaFraco {
+    width: 290px;
+    height: 350px;
+    margin-left: 35px;
+}
+
+#colorido {
+    width: 290px;
+    height: 350px;
+    margin-left: 35px;
+}
+
+#mar, #azul, #preta {
+    width: 290px;
+    height: 350px;
+    margin-left: 35px;
+    margin-top: 15px;
+}
+
